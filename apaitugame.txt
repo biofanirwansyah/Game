@@ -1,0 +1,58 @@
+Hai 
+Saya Bio dari BayawakDev Indonesia
+
+
+
+izin sharing nih terkait apa sih itu GAME?
+
+Murni Pendapat hehe.
+
+seperti yang kalian tau menurut bahasa Indonesia game itu adalah permainan.
+singkatnya, game bisa jadi adalah permainan yang selama ini kita lakukan
+contohnya seperti dulu kalian pasti pernah main petak umpet ataupun main kejar-kejaran
+nah itu adalah salah satu contoh dari game. Game itu bukan cuman bentuk digital atau visual ya
+tapi bisa juga berbentuk nyata atau bisa disebut realita. kalau menurut ensiklopedia permainan
+game atau permainan adalah sebuah aktivitas rekreasi atau hiburan yang tujuannya ya untuk senang-senang.
+
+ketopik selanjutnya
+
+gimana sih cara bikin game ? 
+
+1. Konsep atau alur dari game
+
+Konsep atau alur ini sangat penting atau kalau bisa kita bilang lebaynya adalah "cita-cita"
+game membutuhkan konsep atau alur untuk seperti apa sih game yang ingin kita buat
+menurut saya membuat game gak harus berawal dari sebuah masalah tapi game juga dapat dari imajinasi kita
+jadi beda ya dengan membuat aplikasi-aplikasi lainnya. imajinasi ini sangat perlu 
+karena game sama dengan seni , perlu imajinasi yang tinggi agar gamenya juga bisa menarik atau lebih tepatnya KREATIF.
+imajinasi gak bakal sama meskipun inti nya bisa sama.
+
+2. Tools/ Game Engine
+
+nah ini gak kalah pentingnya dari proses pembuatan game karena tools bisa jadi penopang dari game kamu seperti apa
+tapi tidak seperti pembuatan aplikas lain, game bagus atau tidaknya gak harus pake tools yang susah atau rumit.
+karena game diliat dari nilai HIBURAN nya untuk pengguna atau diri kita sendiri itu sih yang penting.
+oh ya kabar baiknya di era yang serba modern ini bikin game gak sesulit dulu kalian bisa belajar sendiri melewati tutorial
+dan gak harus kuliah juga, toh jarang juga universitas yang ngasih ilmu tentang bikin game. jadi semua bisa menjadi game developer
+asal kalian serius dalam buatnya.
+
+3. Tema game
+ 
+menentukan tema game penting juga sih tapi gak selalu juga, tergantung dari konsep atau alur yang kita buat
+dari situ bisa keliatan tema  dari game kita buat apa, bahkan di game kita bisa nyiptain tema baru atau alur baru
+dari gabungan-gabungan tema lain, ingat game adalah SENI jadi kalian bebas untuk meluapkan imajinasi kalian
+gak perlu berpatokan dalam tema.
+
+4. Desain Game
+nah ini paling penting dalam pembuatan game karena game di tentukan dari desain seperti apa itu game
+mulai dari desain konsep yaitu menyatukan konsep atau alur kita ke dalam bentuk game atau permainan gimana.
+serta game harus di desain seperti apa bentuk dari asset-assetnya karena dari game asset ini bukan hanya desain grafis saja,
+tapi musik bahkan suasananya karena GAME adalah SENI inget ya. 
+
+segitu aja sharing dari saya mengenai game,selanjutnya saya akan memberikan materi terkait 
+pembuatan game menggunakan tools (tutorial bikin game)
+
+kalau ada yang perlu ditanyakan atau ada yang salah dalam ucapan saya
+bisa kontak lewat : bio_fanirwansyah@bayawakdev.com
+
+TERIMAKASIH :p

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class visibleinvisible : MonoBehaviour {
-    public GameObject cube;
+    public GameObject cube;//variable untuk indikator dari objek yang diinginkan
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.A)) //menekan keyboard huruf A sebagai indikator untuk objek muncul

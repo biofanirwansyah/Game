@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class spawnObjectprefabs : MonoBehaviour {
 
-    public GameObject cube;
+    public GameObject cube; //variable untuk indikator object yang akan dimasukkan
 	
-	void Update () {
-		if (Input.GetKeyDown(KeyCode.A))
+   void Update () {
+	if (Input.GetKeyDown(KeyCode.A))//menekan keyboard huruf A sebagai indikator untuk objek muncul
         {
-            spawnPrefabs();
+            spawnPrefabs();//pemanggilan fungsi yang akan digunakan
             Debug.Log("muncul");
         }
         else
@@ -18,8 +18,8 @@ public class spawnObjectprefabs : MonoBehaviour {
         }
 	}
     
-    private void spawnPrefabs()
+    private void spawnPrefabs()//fungsi untuk memunculkan objek
     {
-        Instantiate(cube, transform.position, transform.rotation);
+        Instantiate(cube, transform.position, transform.rotation);//memunculkan objek dari posisi dan rotasi berdasarkan prefabs
     }
 }
